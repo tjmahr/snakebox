@@ -1,2 +1,2 @@
 # snakebox
-Testing out pythong
+Testing out python
